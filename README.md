@@ -5,6 +5,15 @@ The goal of this assignment is to write firmware for the [SimpleLink Wi-Fi CC320
 and uploads the data it gathers from its temperature sensor.
 A flask server backend is provided on an herok server toghetter with an heroku PostgreSQL.
 
+## Source Roadmap
+
+```
+server    directory containing all the server code
+CC3200    directory containing the CCS project
+Python    directory containing the Jupyter Notebook
+misc      miscellaneous
+```
+
 ## System Overview
 
 <p align="center"><img src="./misc/systemoverview.png"></p>
