@@ -1,0 +1,3 @@
+[submodule "Smart-Systems-Assignment-1-heroku"]
+	path = server 
+	url = git@github.com:Bryanhon/Smart-Systems-Assignment-1-heroku.git
