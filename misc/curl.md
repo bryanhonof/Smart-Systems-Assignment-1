@@ -5,7 +5,7 @@
 ```zsh
 curl --header "Content-Type: application/json" \
      --request POST \
-     --data '{"value":"42","place":"Maasmechelen"}'
+     --data '{"value":"42","place":"Maasmechelen"}' \
      https://<YOURLINK>.herokuapp.com/api/temp
 ```
 
@@ -14,7 +14,7 @@ curl --header "Content-Type: application/json" \
 ```zsh
 curl --header "Content-Type: application/json" \
      --request PUT \
-     --data '{"value":"42","place":"Maasmechelen"}'
+     --data '{"value":"42","place":"Maasmechelen"}' \
      https://<YOURLINK>.herokuapp.com/api/temp/<ID>
 ```
 
