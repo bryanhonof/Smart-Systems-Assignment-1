@@ -3,13 +3,17 @@
 Assignment 1 of the Smart Systems course lectured by [Vincent Claes](https://www.linkedin.com/in/vincentclaes/) @ [PXL University College](https://www.pxl.be).
 The goal of this assignment is to write firmware for the [SimpleLink Wi-Fi CC3200 LaunchPad](http://www.ti.com/tool/CC3200-LAUNCHXL) that collects
 and uploads the data it gathers from its temperature sensor.
-A flask server backend is provided on an herok server toghetter with an heroku PostgreSQL.
+A flask server backend is provided on an heroku server together with an heroku PostgreSQL.
 
 ## Source Roadmap
-server directory containing all the server code
-CC3200 directory containing the CCS project
-Python directory containing the Jupyter Notebook
-misc miscellaneous
+
+```
+server    directory containing all the server code
+CC3200    directory containing the CCS project
+Python    directory containing the Jupyter Notebook
+misc      miscellaneous
+```
+
 ## System Overview
 
 <p align="center"><img src="./misc/systemoverview.png"></p>
@@ -44,7 +48,7 @@ See server/requirements.txt for a full list of used python modules to run the se
 
 * *Vincent Claes*    - Lecturer - [LinkedIn](https://www.linkedin.com/in/vincentclaes/)
 * *Jeffrey Gorissen* - Student  - [LinkedIn](https://www.linkedin.com/in/jeffrey-gorissen-6120a2142/)
-* *Bryan Honof*      - student  - [LinkedIn](https://www.linkedin.com/in/bryan-honof/)
+* *Bryan Honof*      - Student  - [LinkedIn](https://www.linkedin.com/in/bryan-honof/)
 
 ## License
 
