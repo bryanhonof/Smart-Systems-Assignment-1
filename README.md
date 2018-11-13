@@ -39,8 +39,7 @@ misc      miscellaneous
 
 * [Python](https://www.python.org/) - The programming language used
 * [Flask](http://flask.pocoo.org/) - The web framework used
-See server/requirements.txt for a full list of used python modules to run the server.
-
+> See server/requirements.txt for a full list of used python modules to run the server.
 * [Heroku](https://www.heroku.com/home) - The deployment server
 * [SimpleLink Wi-Fi CC3200 LaunchPad](http://www.ti.com/tool/CC3200-LAUNCHXL) - The development board used
 
