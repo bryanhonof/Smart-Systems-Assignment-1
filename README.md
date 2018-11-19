@@ -27,6 +27,8 @@ misc      miscellaneous
   <p align="center"><img src="./misc/cc3200.png"></p>
   
 * Use the Heroku-Postgresql-DB system as a server system
+	<p align="center"><img src="./misc/heroku.png"></p>
+
 * Develop a Jupyter Notebook application with the following requirements
     - Connect to the Postgresql Database on the remote Heroku server
     - Make Data visualizations of the temperature values that are in the database on the 
