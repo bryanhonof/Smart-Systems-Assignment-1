@@ -20,6 +20,10 @@ misc      miscellaneous
 
 ## Project Goals
 
+<details>
+<summary>"Click to expand"</summary>
+
+
 * For this project you have to plug in your CC3200XL board and upload temperature values to
   the Python-Heroku server-system, be sure to have a large number of temperature values
   available, be sure to place your module in the same room for some time… 
@@ -41,6 +45,8 @@ misc      miscellaneous
       model.
 	  
 	  <p align="center"><img src="./misc/jupyter.png"></p>
+
+</details>
 
 ## Built With
 
