@@ -23,6 +23,9 @@ misc      miscellaneous
 * For this project you have to plug in your CC3200XL board and upload temperature values to
   the Python-Heroku server-system, be sure to have a large number of temperature values
   available, be sure to place your module in the same room for some time… 
+  
+  <p align="center"><img src="./misc/cc3200.png"></p>
+  
 * Use the Heroku-Postgresql-DB system as a server system
 * Develop a Jupyter Notebook application with the following requirements
     - Connect to the Postgresql Database on the remote Heroku server
