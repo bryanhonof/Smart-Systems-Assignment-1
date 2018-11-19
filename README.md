@@ -39,6 +39,8 @@ misc      miscellaneous
       (you may search for examples like forecasting stock prices,…). You have to predict new
       temperature values for the next hour and day using a Seasonal-Arima forecasting
       model.
+	  
+	  <p align="center"><img src="./misc/jupyter.png"></p>
 
 ## Built With
 
