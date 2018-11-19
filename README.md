@@ -2,7 +2,9 @@
 
 Assignment 1 of the Smart Systems course lectured by [Vincent Claes](https://www.linkedin.com/in/vincentclaes/) @ [PXL University College](https://www.pxl.be).
 The goal of this assignment is to write firmware for the [SimpleLink Wi-Fi CC3200 LaunchPad](http://www.ti.com/tool/CC3200-LAUNCHXL) that collects
-and uploads the data it gathers from its temperature sensor.
+and uploads the data it gathers from its temperature sensor. 
+Using the collected data the goal is to make a prediction of temperatures. 
+This prediction is made in Jupyter Notebooks using the Python scripting language.
 A flask server backend is provided on an heroku server together with an heroku PostgreSQL.
 
 ## Source Roadmap
@@ -21,7 +23,7 @@ misc      miscellaneous
 ## Project Goals
 
 <details>
-<summary>"Click to expand"</summary>
+<summary>Click to expand goals</summary>
 
 
 * For this project you have to plug in your CC3200XL board and upload temperature values to
@@ -64,7 +66,7 @@ misc      miscellaneous
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
