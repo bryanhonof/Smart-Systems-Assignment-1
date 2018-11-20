@@ -23,12 +23,12 @@ misc      miscellaneous
 ## Project Goals
 
 <details>
-<summary>Click to expand goals</summary>
+<summary>Click to expand the project goals</summary>
 
 
 * For this project you have to plug in your CC3200XL board and upload temperature values to
   the Python-Heroku server-system, be sure to have a large number of temperature values
-  available, be sure to place your module in the same room for some time… 
+  available, be sure to place your module in the same room for some time for it to be able to collect usable data… 
   
   <p align="center"><img src="./misc/cc3200.png"></p>
   
