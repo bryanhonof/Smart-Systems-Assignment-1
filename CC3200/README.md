@@ -34,7 +34,7 @@ A flask server backend is provided on an heroku server together with an heroku P
 |---------------------------------|------------------------------------------------------------------------|
 | Processor                       | ARM Cortex-M4                                                          |
 | Technology                      | Wi-Fi                                                                  |
-| Flash (KB)                      |                                                                        |
+| Flash (KB)                      | 1024                                                                       |
 | RAM (KB)                        | 256                                                                    |
 | Throughput (Max) (Mbps)         | 16                                                                     |
 | Wi-Fi RX sensitivity (dBm)      | -96                                                                    |
