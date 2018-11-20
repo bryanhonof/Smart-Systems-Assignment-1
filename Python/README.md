@@ -7,6 +7,7 @@ By doing our project in this manner we hope that every single step is as clear a
 ## Overview
 
 ```
+data                               Directory containing the data
 1_entry_notebook.ipynb             Brief overview of the assignment. A TL;DR
 2_get_data.ipynb                   Downloading data from weblink or heroku to .csv
 3_exploratory_data_analysis.ipynb  Data analysing
