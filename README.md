@@ -23,7 +23,7 @@ misc      miscellaneous
 ## Project Goals
 
 <details>
-<summary>Click to expand goals</summary>
+<summary>Click to expand the project goals</summary>
 
 
 * For this project you have to plug in your CC3200XL board and upload temperature values to
