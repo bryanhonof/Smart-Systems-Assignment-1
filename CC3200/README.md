@@ -7,8 +7,12 @@ Using the collected data the goal is to make a prediction of temperatures.
 This prediction is made in Jupyter Notebooks using the Python scripting language.
 A flask server backend is provided on an heroku server together with an heroku PostgreSQL.
 
+<details>
+<summary>Click to see the board</summary>
+
 <p align="center"><img src="../misc/cc3200.png"></p>
 
+</details>
 
 ## Features
 
@@ -40,29 +44,4 @@ A flask server backend is provided on an heroku server together with an heroku P
 | Package (mm)                    | 9 9 QFN, 0.5 Pitch, 64-pin                                             |
 
 
-
-
-
-## Built With
-
-* [Python](https://www.python.org/) - The programming language used
-* [Flask](http://flask.pocoo.org/) - The web framework used
-> See server/requirements.txt for a full list of used python modules to run the server.
-* [Heroku](https://www.heroku.com/home) - The deployment server
-* [SimpleLink Wi-Fi CC3200 LaunchPad](http://www.ti.com/tool/CC3200-LAUNCHXL) - The development board used
-
-## Authors
-
-* *Vincent Claes*    - Lecturer - [LinkedIn](https://www.linkedin.com/in/vincentclaes/)
-* *Jeffrey Gorissen* - Student  - [LinkedIn](https://www.linkedin.com/in/jeffrey-gorissen-6120a2142/)
-* *Bryan Honof*      - Student  - [LinkedIn](https://www.linkedin.com/in/bryan-honof/)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
 
