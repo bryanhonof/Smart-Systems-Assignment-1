@@ -64,7 +64,7 @@ misc      miscellaneous
 * *Jeffrey Gorissen* - Student  - [LinkedIn](https://www.linkedin.com/in/jeffrey-gorissen-6120a2142/)
 * *Bryan Honof*      - Student  - [LinkedIn](https://www.linkedin.com/in/bryan-honof/)
 
-<p align="center"><img src="./misc/pxl.png"></p>
+<p align="left"><img src="./misc/pxl.png"></p>
 
 ## License
 
