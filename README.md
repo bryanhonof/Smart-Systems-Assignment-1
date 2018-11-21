@@ -64,6 +64,8 @@ misc      miscellaneous
 * *Jeffrey Gorissen* - Student  - [LinkedIn](https://www.linkedin.com/in/jeffrey-gorissen-6120a2142/)
 * *Bryan Honof*      - Student  - [LinkedIn](https://www.linkedin.com/in/bryan-honof/)
 
+<p align="center"><img src="./misc/pxl.png"></p>
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
