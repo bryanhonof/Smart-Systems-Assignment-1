@@ -28,7 +28,7 @@ misc      miscellaneous
 
 * For this project you have to plug in your CC3200XL board and upload temperature values to
   the Python-Heroku server-system, be sure to have a large number of temperature values
-  available, be sure to place your module in the same room for some time… 
+  available, be sure to place your module in the same room for some time for it to be able to collect usable data… 
   
   <p align="center"><img src="./misc/cc3200.png"></p>
   
@@ -63,6 +63,8 @@ misc      miscellaneous
 * *Vincent Claes*    - Lecturer - [LinkedIn](https://www.linkedin.com/in/vincentclaes/)
 * *Jeffrey Gorissen* - Student  - [LinkedIn](https://www.linkedin.com/in/jeffrey-gorissen-6120a2142/)
 * *Bryan Honof*      - Student  - [LinkedIn](https://www.linkedin.com/in/bryan-honof/)
+
+<p align="left"><img src="./misc/pxl.png"></p>
 
 ## License
 
