@@ -114,9 +114,8 @@
 #define MAX_MSG_LENGTH			16
 
 #define POST_REQUEST_URI        "/api/temp"
-#define LOCATION                "Lat:51.037460, Long: 5.301590"
+#define LOCATION                "Jeffrey Kot"
 #define POST_DATA               "{\"value\":\"%.2f\",\"place\":\"%s\"}"
-//#define POST_DATA               "{\"value\":\"666.66\",\"place\":\"Lat:51.037460, Long: 5.301590\"}"
 
 #define DELETE_REQUEST_URI      "/api/temp"
 
@@ -126,7 +125,7 @@
 
 //#define GET_REQUEST_URI       "/get" http://iot.pxl-ea-ict.be/SmartSystems/add.php?temp1=66&hum1=45
 #define GET_REQUEST_URI         "/api/compare"
-#define HOST_NAME               "pxl-ss.herokuapp.com" //"<host name>"
+#define HOST_NAME               "ss-pxl-11603121.herokuapp.com" //"<host name>"
 #define HOST_PORT               80
 
 #define PROXY_IP                <proxy_ip>
